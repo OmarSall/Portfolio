@@ -9,4 +9,4 @@ Los proyectos completos de ensamblaje y la documentación asociada están dispon
 
 This repository contains a selection of engineering projects focused on mechanical design, structural development and performance-driven optimization. The work presented includes CAD modeling, iterative design processes, simulation-based validation (CFD / structural analysis) and prototyping considerations, primarily within aerospace and energy-related applications.
 
-The complete assembly projects and supporting documentation are available within this repository. Access details are provided in the CV.
+The complete assembly projects and supporting documentation are available within this repository.
