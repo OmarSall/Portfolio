@@ -2,7 +2,7 @@
 
 Este repositorio contiene una selección de proyectos de ingeniería centrados en diseño mecánico, desarrollo estructural y optimización del rendimiento. El trabajo presentado incluye modelado CAD, procesos de diseño iterativo, validación mediante simulaciones (CFD / análisis estructural) y consideraciones de prototipado, principalmente en aplicaciones aeroespaciales y energéticas.
 
-Los proyectos completos de ensamblaje y la documentación asociada están disponibles en este repositorio. Los detalles de acceso se indican en el CV.
+Los proyectos completos de ensamblaje y la documentación asociada están disponibles en este repositorio.
 
 
 # 🇬🇧 Engineering Portfolio
